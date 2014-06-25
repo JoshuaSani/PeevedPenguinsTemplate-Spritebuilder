@@ -197,7 +197,7 @@
 				<key>children</key>
 				<array/>
 				<key>customClass</key>
-				<string></string>
+				<string>Bear</string>
 				<key>displayName</key>
 				<string>beararm</string>
 				<key>memberVarAssignmentName</key>
