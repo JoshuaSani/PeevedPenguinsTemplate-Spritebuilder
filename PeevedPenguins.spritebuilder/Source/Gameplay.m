@@ -21,7 +21,6 @@ Gameplay{
     CCNode *_pullbackNode;
     
     CCNode *_mouseJointNode;
-    
     CCPhysicsJoint *_mouseJoint;
 }
 
