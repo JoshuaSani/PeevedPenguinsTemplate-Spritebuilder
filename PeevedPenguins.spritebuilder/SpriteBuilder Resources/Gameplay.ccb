@@ -554,7 +554,7 @@
 										<key>type</key>
 										<string>StringSimple</string>
 										<key>value</key>
-										<string>catapultarm</string>
+										<string></string>
 									</dict>
 									<dict>
 										<key>name</key>
@@ -768,7 +768,7 @@
 										<key>type</key>
 										<string>StringSimple</string>
 										<key>value</key>
-										<string>catapult</string>
+										<string></string>
 									</dict>
 									<dict>
 										<key>name</key>
@@ -1270,8 +1270,6 @@
 										</array>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 						</array>
 						<key>customClass</key>
@@ -1761,6 +1759,8 @@
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
