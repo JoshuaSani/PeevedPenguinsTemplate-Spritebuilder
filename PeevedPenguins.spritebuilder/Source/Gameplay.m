@@ -86,7 +86,7 @@ Gameplay{
     {
         // releases the joint and lets the catapult snap back
         [_mouseJoint invalidate];
-      //  _mouseJoint = nil;
+        _mouseJoint = nil;
     }
     
     // releases the joint and lets the penguin fly
