@@ -2010,8 +2010,6 @@
 						</array>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
@@ -2054,9 +2052,9 @@
 				<key>value</key>
 				<array>
 					<real>960</real>
-					<real>1</real>
+					<real>320</real>
 					<integer>0</integer>
-					<integer>2</integer>
+					<integer>0</integer>
 				</array>
 			</dict>
 			<dict>
@@ -2084,6 +2082,8 @@
 				</array>
 			</dict>
 		</array>
+		<key>selected</key>
+		<true/>
 	</dict>
 	<key>notes</key>
 	<array/>
