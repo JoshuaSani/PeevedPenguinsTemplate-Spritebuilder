@@ -85,6 +85,10 @@
 			<key>isSmartSpriteSheet</key>
 			<true/>
 		</dict>
+		<key>PeevedPenguinsAssets/background.png</key>
+		<dict/>
+		<key>PeevedPenguinsAssets/bear.png</key>
+		<dict/>
 		<key>Sprites</key>
 		<dict/>
 		<key>animation</key>
