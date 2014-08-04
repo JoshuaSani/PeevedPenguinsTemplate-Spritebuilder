@@ -156,6 +156,7 @@ Gameplay{
         [[_physicsNode space] addPostStepBlock:^{
             [self sealRemoved:nodeA];
         } key:nodeA];
+       
     }
 }
 
